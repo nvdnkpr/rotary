@@ -1,0 +1,21 @@
+{
+  "name": "express-regexp-router",
+  "description": "Express' built-in regexp router",
+  "version": "0.0.1",
+  "author": "TJ Holowaychuk <tj@vision-media.ca>",
+  "dependencies": {
+    "connect": "2",
+    "methods": "0.1.0",
+    "debug": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "2",
+    "supertest": "0.6.0"
+  },
+  "repository": "git://github.com/expressjs/regexp-router",
+  "scripts": {
+    "test": "make test"
+  },
+  "main": "lib/router"
+}
