@@ -1,5 +1,5 @@
 {
-  "name": "express-regexp-router",
+  "name": "rotary",
   "description": "Express' built-in regexp router",
   "version": "0.0.1",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
@@ -13,7 +13,7 @@
     "should": "2",
     "supertest": "0.6.0"
   },
-  "repository": "git://github.com/expressjs/regexp-router",
+  "repository": "git://github.com/expressjs/rotary",
   "scripts": {
     "test": "make test"
   },
